@@ -9,7 +9,7 @@ const phone = {
     return console.log(
       `This phone is made by ${this.brand}, model: ${this.modelName}, has ${
         this.capacity
-      } GB memory slot and ${this.displayType} display and is ${
+      } GB memory slot and ${this.displayType.join(" ")} display and is ${
         this.turnedON ? "turned on" : "off"
       }`
     );

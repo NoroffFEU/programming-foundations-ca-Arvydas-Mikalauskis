@@ -1,2 +1,10 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11310833&assignment_repo_type=AssignmentRepo)
-# Programming Foundations CA
+# Mobile phone Object
+
+This phone object has the following properties:
+
+- Brand (string), the manufacturer of the phone.
+- Device model name (string),
+- Memory capacity (number),
+- Description of display properties (array),
+- Phone is turned on or off (Boolean)
+- And the message that describes all the propeties of the phone all together (function)
